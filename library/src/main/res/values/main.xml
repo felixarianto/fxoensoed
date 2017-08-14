@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="conversation_hint">Type a message</string>
+    <dimen name="text_h1">18sp</dimen>
+    <dimen name="text_h2">16sp</dimen>
+    <dimen name="text_content">14sp</dimen>
+    <dimen name="text_small">10sp</dimen>
+</resources>
